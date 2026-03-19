@@ -104,14 +104,6 @@ deploy:
   type: git
   repo: https://github.com/zengzcs/zengzcs.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  branch: main
+  message: Deploy by GitHub Actions
 
-menu:
-  主页: /
-  博客: /archives
-
-rss:
-
-copyright:
-  |-
-    © 2026 ZCS
