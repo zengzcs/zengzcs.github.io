@@ -105,3 +105,13 @@ deploy:
   repo: https://github.com/zengzcs/zengzcs.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+menu:
+  主页: /
+  博客: /archives
+
+rss:
+
+copyright:
+  |-
+    © 2026 ZCS
